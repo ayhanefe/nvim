@@ -1,1 +1,1 @@
-require("efe")
+require("config")
